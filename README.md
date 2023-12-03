@@ -1,5 +1,7 @@
 # Web Scraping Practice Application | Build and Deploy eCommerce Price Tracker
 
+![url](https://wscraper-fj29xzttm-pias-das-projects.vercel.app/)
+
 ## Introduction
 
 Dive into web scraping and build a Next.js 14 eCommerce price tracker with data scraping, cron jobs, sending emails, deployment, and more.
