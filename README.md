@@ -1,6 +1,6 @@
 # Web Scraping Practice Application | Build and Deploy eCommerce Price Tracker
 
-![url](https://wscraper-fj29xzttm-pias-das-projects.vercel.app/)
+[url](https://wscraper-fj29xzttm-pias-das-projects.vercel.app/)
 
 ## Introduction
 
